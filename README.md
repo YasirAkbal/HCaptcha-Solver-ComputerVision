@@ -1,4 +1,4 @@
-# HCaptcha-Solver-Selenium
+# HCaptcha-Solver-ComputerVision
 En güncel CNN algoritmaları kullanılarak bir CAPTCHA(Completely Automated Public Turing test to tell Computers and Humans Apart) sistemini geçen python yazılımı Selenium-WebDriver kullanılarak yazılmıştır. Programda kullanılan model CAPTCHA sisteminden çekilen veriseti ile transfer learning uygulanarak eğitilmiştir.<br/>
 
 ## Kurulum
